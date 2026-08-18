@@ -1,0 +1,125 @@
+{
+  "monirvai": [
+    {
+      "key": "NEXO-UFM41S1N",
+      "duration": 365,
+      "durationType": "days",
+      "durationLabel": "1 Year",
+      "status": "active",
+      "created": "2026-06-30T17:15:33.268Z",
+      "expires": "2027-06-30T17:15:33.268Z",
+      "usedBy": null,
+      "usedAt": null
+    },
+    {
+      "key": "NEXO-LI8J4CXI",
+      "duration": 365,
+      "durationType": "days",
+      "durationLabel": "1 Year",
+      "status": "active",
+      "created": "2026-06-30T17:29:16.104Z",
+      "expires": "2027-06-30T17:29:16.104Z",
+      "usedBy": null,
+      "usedAt": null
+    },
+    {
+      "key": "NEXO-CXXY2FCY",
+      "duration": 365,
+      "durationType": "days",
+      "durationLabel": "1 Year",
+      "status": "active",
+      "created": "2026-06-30T17:38:07.045Z",
+      "expires": "2027-06-30T17:38:07.045Z",
+      "usedBy": null,
+      "usedAt": null
+    },
+    {
+      "key": "NEXO-WWM18IU6",
+      "duration": 365,
+      "durationType": "days",
+      "durationLabel": "1 Year",
+      "status": "active",
+      "created": "2026-06-30T17:37:40.726Z",
+      "expires": "2027-06-30T17:37:40.726Z",
+      "usedBy": null,
+      "usedAt": null
+    },
+    {
+      "key": "NEXO-8E56HD72",
+      "duration": 365,
+      "durationType": "days",
+      "durationLabel": "1 Year",
+      "status": "active",
+      "created": "2026-06-30T17:36:44.306Z",
+      "expires": "2027-06-30T17:36:44.306Z",
+      "usedBy": null,
+      "usedAt": null
+    },
+    {
+      "key": "MONIR-AVSDTQ83",
+      "duration": 365,
+      "durationType": "days",
+      "durationLabel": "1 Year",
+      "status": "active",
+      "created": "2026-08-06T10:00:00.000Z",
+      "expires": "2027-08-06T10:00:00.000Z",
+      "usedBy": null,
+      "usedAt": null
+    },
+    {
+      "key": "MONIR-MOHIT-FF",
+      "duration": 365,
+      "durationType": "days",
+      "durationLabel": "1 Year",
+      "status": "active",
+      "created": "2026-08-06T10:00:00.000Z",
+      "expires": "2027-08-06T10:00:00.000Z",
+      "usedBy": null,
+      "usedAt": null
+    },
+    {
+      "key": "MONIR-OREJAIFP",
+      "duration": 365,
+      "durationType": "days",
+      "durationLabel": "1 Year",
+      "status": "active",
+      "created": "2026-08-06T10:00:00.000Z",
+      "expires": "2027-08-06T10:00:00.000Z",
+      "usedBy": null,
+      "usedAt": null
+    },
+    {
+      "key": "MONIR-615V88NN",
+      "duration": 365,
+      "durationType": "days",
+      "durationLabel": "1 Year",
+      "status": "active",
+      "created": "2026-08-06T10:00:00.000Z",
+      "expires": "2027-08-06T10:00:00.000Z",
+      "usedBy": null,
+      "usedAt": null
+    },
+    {
+      "key": "MONIR-85NONR4J",
+      "duration": 365,
+      "durationType": "days",
+      "durationLabel": "1 Year",
+      "status": "active",
+      "created": "2026-08-06T10:00:00.000Z",
+      "expires": "2027-08-06T10:00:00.000Z",
+      "usedBy": null,
+      "usedAt": null
+    },
+    {
+      "key": "MONIR-S9DBQVNX",
+      "duration": 365,
+      "durationType": "days",
+      "durationLabel": "1 Year",
+      "status": "active",
+      "created": "2026-08-06T10:00:00.000Z",
+      "expires": "2027-08-06T10:00:00.000Z",
+      "usedBy": null,
+      "usedAt": null
+    }
+  ]
+}
